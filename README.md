@@ -27,4 +27,3 @@ Head on over to our centralized documentation [here](https://docs.runwhen.com/pu
 | [k8s-kubectl-cmd-sli](https://github.com/runwhen-contrib/rw-generic-codecollection/blob/main/codebundles/k8s-kubectl-cmd/sli.robot) | `k8s` | `${TASK_TITLE}` | This taskset runs a user provided kubectl command and pushes the metric. The supplied command must result in distinct single metric. Command line tools like jq are available. [Docs](https://docs.runwhen.com/public/v/cli-codecollection/k8s-kubectl-cmd) |
 | [k8s-kubectl-cmd-taskset](https://github.com/runwhen-contrib/rw-generic-codecollection/blob/main/codebundles/k8s-kubectl-cmd/runbook.robot) | `k8s` | `${TASK_TITLE}` | This taskset runs a user provided kubectl command andadds the output to the report. Command line tools like jq are available. [Docs](https://docs.runwhen.com/public/v/cli-codecollection/k8s-kubectl-cmd) |
 
-
